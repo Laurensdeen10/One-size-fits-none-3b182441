@@ -1,16 +1,14 @@
 h1 {
     color: red;
+    font-size: 2.1em;
 }
 h3 {
 	color: pink;
-}
-h1 {
-	font-size: 2.1em;
-}
-h3 {
 	font-size: 3.2em;
 }
 body {
 	background-color: teal;
 	color: white;
+}
+img {width: 200px
 }
